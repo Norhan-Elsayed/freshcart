@@ -1,0 +1,17 @@
+.paragraph
+{
+    background: linear-gradient( to right,#a53f3f, #ce89bd);
+    background-clip:text;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+}
+.Icon1{
+  color: #a53f3f;
+  font-size: 30px;
+}
+.Icon2{
+  color: #ce89bd;
+  font-size: 30px;
+}

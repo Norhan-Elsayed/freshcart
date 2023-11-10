@@ -1,0 +1,20 @@
+.paragraph
+{
+    background: linear-gradient( to right,#3FA55C, #B3AC49);
+    background-clip:text;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+}
+.Icon1{
+  color: #3FA55C;
+  font-size: 30px;
+}
+.Icon2{
+  color: #B3AC49;
+  font-size: 30px;
+}
+.btn-remove{
+  border: unset;
+}
